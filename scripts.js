@@ -12,7 +12,7 @@ async function fetchData() {
 let oweList = [];
 let selected = [];
 let remainWords = 0;
-const tenParts = separateData(10);
+let tenParts = null;
 
 loadData();
 
@@ -41,6 +41,7 @@ async function loadData() {
         const data = await fetchData();
         if (data && data.length > 0) {
             localStorage.setItem('mwdt', JSON.stringify(data));
+            tenParts = separateData(10);
             updateInfo();
             createBoard();
             fillSection();
