@@ -9,16 +9,32 @@ async function fetchData() {
 }
 
 
-let score = 0;
+let oweList = [];
 let selected = [];
 let remainWords = 0;
+const tenParts = separateData(10);
+
+loadData();
 
 const scoreID = document.getElementById('score');
 const restartBtnID = document.getElementById('restartBtn');
 const remainWordsID = document.getElementById('remainWords');
-restartBtnID.addEventListener('click', restartGame);
+const optionId = document.getElementById('optionId');
+const listID = document.getElementById('listID');
+const sheetID = document.getElementById('sheetID');
+const closeModal = document.getElementById('close-modal');
+const sheetContent = document.getElementById('sheetContent');
+const oweWords = document.getElementById('oweWords');
 
-loadData();
+
+restartBtnID.addEventListener('click', restartGame);
+optionId.addEventListener('change', choosePart);
+listID.addEventListener('click', () => {
+    sheetID.style.display = "block";
+    fillTable();
+});
+closeModal.addEventListener('click', () => sheetID.style.display = "none");
+
 
 async function loadData() {
     try {
@@ -26,7 +42,9 @@ async function loadData() {
         if (data && data.length > 0) {
             localStorage.setItem('mwdt', JSON.stringify(data));
             updateInfo();
-            createBoard()
+            createBoard();
+            fillSection();
+
         } else {
             console.error('Không có dữ liệu để lưu trữ.');
         }
@@ -37,15 +55,15 @@ async function loadData() {
 
 function restartGame() {
     loadData();
-    score = 0;
+    oweList = [];
     selected = [];
-    scoreID.textContent = 0;
 }
 
 function updateInfo() {
     const getdata = localStorage.getItem('mwdt');
     const data = JSON.parse(getdata);
     remainWordsID.textContent = data.length;
+    oweWords.textContent = oweList.length;
 }
 
 function random(data) {
@@ -128,8 +146,6 @@ function checkMatch() {
         // Xử lý cặp từ khớp
         first.card.classList.add('matched');
         second.card.classList.add('matched');
-        score += 10;
-        scoreID.textContent = score;
         setTimeout(() => {
             removeMatchPair(firstWord);
             createBoard();
@@ -138,16 +154,16 @@ function checkMatch() {
         // Xử lý cặp từ không khớp
         first.card.classList.add('not-matched');
         second.card.classList.add('not-matched');
-        score -= 10;
-        scoreID.textContent = score;
         setTimeout(() => {
             first.card.classList.remove('selected', 'not-matched');
             second.card.classList.remove('selected', 'not-matched');
+            addOweList(firstWord);
+            addOweList(secondWord);
+            updateInfo();
         }, 300);
     }
     selected = [];
 }
-
 
 function removeMatchPair(index) {
     const data = getData();
@@ -155,21 +171,8 @@ function removeMatchPair(index) {
     localStorage.setItem("mwdt", JSON.stringify(data));
 }
 
-
-const listID = document.getElementById('listID');
-const sheetID = document.getElementById('sheetID');
-const closeModal = document.getElementById('close-modal');
-const sheetContent = document.getElementById('sheetContent');
-listID.addEventListener('click', () => {
-    sheetID.style.display = "block";
-    fillTable();
-});
-closeModal.addEventListener('click', () => sheetID.style.display = "none");
-
-
 function fillTable() {
-    const sheetContent = document.getElementById('sheetContent');
-
+    sheetContent.innerHTML = ``;
     const data = getData();
     for (let i = 0; i < data.length; i++) {
         const div = document.createElement('tr');
@@ -179,4 +182,40 @@ function fillTable() {
             <td>${data[i].mean}</td>`;
         sheetContent.appendChild(div);
     }
+}
+
+function separateData(numParts) {
+    const data = getData();
+    const parts = [];
+    const partSize = Math.ceil(data.length / numParts);
+
+    for (let i = 0; i < numParts; i++) {
+        parts.push(data.slice(i * partSize, (i + 1) * partSize));
+    }
+
+    return parts;
+}
+
+function fillSection() {
+    for (let i = 0; i < 10; i++) {
+        const option = document.createElement('option');
+        option.value = i;
+        option.textContent = i + 1;
+        optionId.appendChild(option);
+    }
+}
+
+function choosePart() {
+    localStorage.setItem('mwdt', JSON.stringify(tenParts[this.value]));
+    createBoard();
+}
+
+function addOweList(word) {
+    const data = getData();
+    oweList.push(data[word]);
+}
+
+function payList() {
+    localStorage.setItem('mwdt', JSON.stringify(oweList));
+    createBoard();
 }
