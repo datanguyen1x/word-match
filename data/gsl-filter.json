@@ -1,0 +1,4002 @@
+[
+    {
+        "word": "seem",
+        "mean": "có vẻ"
+    },
+    {
+        "word": "against",
+        "mean": "chống lại"
+    },
+    {
+        "word": "govern",
+        "mean": "cai trị"
+    },
+    {
+        "word": "upon",
+        "mean": "trên"
+    },
+    {
+        "word": "unite",
+        "mean": "đoàn kết"
+    },
+    {
+        "word": "away",
+        "mean": "xa"
+    },
+    {
+        "word": "toward",
+        "mean": "theo hướng"
+    },
+    {
+        "word": "figure",
+        "mean": "nhân vật"
+    },
+    {
+        "word": "though",
+        "mean": "mặc dù"
+    },
+    {
+        "word": "president",
+        "mean": "chủ tịch"
+    },
+    {
+        "word": "sense",
+        "mean": "giác quan"
+    },
+    {
+        "word": "several",
+        "mean": "một số"
+    },
+    {
+        "word": "concern",
+        "mean": "bận tâm"
+    },
+    {
+        "word": "probable",
+        "mean": "có thể xảy ra"
+    },
+    {
+        "word": "determine",
+        "mean": "quyết tâm"
+    },
+    {
+        "word": "thus",
+        "mean": "do đó"
+    },
+    {
+        "word": "spirit",
+        "mean": "tinh thần"
+    },
+    {
+        "word": "college",
+        "mean": "trường cao đẳng"
+    },
+    {
+        "word": "religion",
+        "mean": "tôn giáo"
+    },
+    {
+        "word": "perhaps",
+        "mean": "có lẽ"
+    },
+    {
+        "word": "serve",
+        "mean": "phục vụ"
+    },
+    {
+        "word": "court",
+        "mean": "tòa án"
+    },
+    {
+        "word": "either",
+        "mean": "hoặc"
+    },
+    {
+        "word": "society",
+        "mean": "xã hội"
+    },
+    {
+        "word": "effort",
+        "mean": "cố gắng"
+    },
+    {
+        "word": "political",
+        "mean": "thuộc về chính trị"
+    },
+    {
+        "word": "term",
+        "mean": "thuật ngữ"
+    },
+    {
+        "word": "south",
+        "mean": "phía nam"
+    },
+    {
+        "word": "regard",
+        "mean": "về"
+    },
+    {
+        "word": "peace",
+        "mean": "hòa bình"
+    },
+    {
+        "word": "observe",
+        "mean": "quan sát"
+    },
+    {
+        "word": "demand",
+        "mean": "yêu cầu"
+    },
+    {
+        "word": "judge",
+        "mean": "phán xét"
+    },
+    {
+        "word": "mile",
+        "mean": "dặm"
+    },
+    {
+        "word": "secretary",
+        "mean": "thư ký"
+    },
+    {
+        "word": "desire",
+        "mean": "sự mong muốn"
+    },
+    {
+        "word": "therefore",
+        "mean": "Vì vậy"
+    },
+    {
+        "word": "doubt",
+        "mean": "nghi ngờ"
+    },
+    {
+        "word": "raise",
+        "mean": "nâng lên"
+    },
+    {
+        "word": "critic",
+        "mean": "nhà phê bình"
+    },
+    {
+        "word": "nor",
+        "mean": "cũng không"
+    },
+    {
+        "word": "committee",
+        "mean": "ủy ban"
+    },
+    {
+        "word": "moral",
+        "mean": "có đạo đức"
+    },
+    {
+        "word": "accord",
+        "mean": "hiệp định"
+    },
+    {
+        "word": "mere",
+        "mean": "chỉ"
+    },
+    {
+        "word": "remark",
+        "mean": "nhận xét"
+    },
+    {
+        "word": "employ",
+        "mean": "thuê"
+    },
+    {
+        "word": "cent",
+        "mean": "xu"
+    },
+    {
+        "word": "decision",
+        "mean": "phán quyết"
+    },
+    {
+        "word": "operate",
+        "mean": "vận hành"
+    },
+    {
+        "word": "realize",
+        "mean": "nhận ra"
+    },
+    {
+        "word": "square",
+        "mean": "quảng trường"
+    },
+    {
+        "word": "district",
+        "mean": "huyện"
+    },
+    {
+        "word": "beyond",
+        "mean": "vượt ra"
+    },
+    {
+        "word": "strike",
+        "mean": "đánh đập"
+    },
+    {
+        "word": "permit",
+        "mean": "cho phép làm gì"
+    },
+    {
+        "word": "association",
+        "mean": "sự kết hợp"
+    },
+    {
+        "word": "lack",
+        "mean": "thiếu"
+    },
+    {
+        "word": "medical",
+        "mean": "thuộc về y học"
+    },
+    {
+        "word": "influence",
+        "mean": "ảnh hưởng"
+    },
+    {
+        "word": "occasion",
+        "mean": "dịp"
+    },
+    {
+        "word": "fair",
+        "mean": "hội chợ"
+    },
+    {
+        "word": "indeed",
+        "mean": "thực vậy"
+    },
+    {
+        "word": "former",
+        "mean": "trước"
+    },
+    {
+        "word": "prove",
+        "mean": "chứng minh"
+    },
+    {
+        "word": "argue",
+        "mean": "tranh cãi"
+    },
+    {
+        "word": "settle",
+        "mean": "ổn định"
+    },
+    {
+        "word": "slight",
+        "mean": "nhẹ"
+    },
+    {
+        "word": "express",
+        "mean": "thể hiện"
+    },
+    {
+        "word": "chief",
+        "mean": "người đứng đầu"
+    },
+    {
+        "word": "lay",
+        "mean": "đặt nằm"
+    },
+    {
+        "word": "poet",
+        "mean": "nhà thơ"
+    },
+    {
+        "word": "due",
+        "mean": "quá hạn"
+    },
+    {
+        "word": "manner",
+        "mean": "thái độ"
+    },
+    {
+        "word": "neither",
+        "mean": "không"
+    },
+    {
+        "word": "opinion",
+        "mean": "ý kiến"
+    },
+    {
+        "word": "western",
+        "mean": "phương Tây"
+    },
+    {
+        "word": "suit",
+        "mean": "bộ đồ"
+    },
+    {
+        "word": "honor",
+        "mean": "tôn kính"
+    },
+    {
+        "word": "quiet",
+        "mean": "im lặng"
+    },
+    {
+        "word": "pool",
+        "mean": "hồ bơi"
+    },
+    {
+        "word": "literature",
+        "mean": "văn học"
+    },
+    {
+        "word": "hang",
+        "mean": "treo"
+    },
+    {
+        "word": "suffer",
+        "mean": "chịu đựng"
+    },
+    {
+        "word": "manufacture",
+        "mean": "sản xuất"
+    },
+    {
+        "word": "frequent",
+        "mean": "thường xuyên"
+    },
+    {
+        "word": "burn",
+        "mean": "đốt cháy"
+    },
+    {
+        "word": "audience",
+        "mean": "khán giả"
+    },
+    {
+        "word": "glass",
+        "mean": "thủy tinh"
+    },
+    {
+        "word": "poem",
+        "mean": "bài thơ"
+    },
+    {
+        "word": "poor",
+        "mean": "nghèo"
+    },
+    {
+        "word": "conscious",
+        "mean": "biết rõ"
+    },
+    {
+        "word": "faith",
+        "mean": "sự tin tưởng"
+    },
+    {
+        "word": "murder",
+        "mean": "giết người"
+    },
+    {
+        "word": "dependent",
+        "mean": "sự phụ thuộc"
+    },
+    {
+        "word": "extreme",
+        "mean": "vô cùng"
+    },
+    {
+        "word": "latter",
+        "mean": "sau này"
+    },
+    {
+        "word": "practical",
+        "mean": "thực tế"
+    },
+    {
+        "word": "cross",
+        "mean": "đi qua"
+    },
+    {
+        "word": "attend",
+        "mean": "tham gia"
+    },
+    {
+        "word": "citizen",
+        "mean": "công dân"
+    },
+    {
+        "word": "agency",
+        "mean": "hãng"
+    },
+    {
+        "word": "encourage",
+        "mean": "khuyến khích"
+    },
+    {
+        "word": "affair",
+        "mean": "chuyện ngoại tình"
+    },
+    {
+        "word": "mass",
+        "mean": "khối"
+    },
+    {
+        "word": "council",
+        "mean": "hội đồng"
+    },
+    {
+        "word": "forward",
+        "mean": "phía trước"
+    },
+    {
+        "word": "propose",
+        "mean": "đề nghị"
+    },
+    {
+        "word": "broad",
+        "mean": "rộng rãi"
+    },
+    {
+        "word": "extent",
+        "mean": "phạm vi"
+    },
+    {
+        "word": "approve",
+        "mean": "chấp thuận"
+    },
+    {
+        "word": "pound",
+        "mean": "pao"
+    },
+    {
+        "word": "fame",
+        "mean": "danh tiếng"
+    },
+    {
+        "word": "reflect",
+        "mean": "phản ánh"
+    },
+    {
+        "word": "advantage",
+        "mean": "lợi thế"
+    },
+    {
+        "word": "wage",
+        "mean": "tiền công"
+    },
+    {
+        "word": "refuse",
+        "mean": "từ chối"
+    },
+    {
+        "word": "existence",
+        "mean": "sự tồn tại"
+    },
+    {
+        "word": "tend",
+        "mean": "có khuynh hướng"
+    },
+    {
+        "word": "thin",
+        "mean": "gầy"
+    },
+    {
+        "word": "youth",
+        "mean": "thiếu niên"
+    },
+    {
+        "word": "reasonable",
+        "mean": "hợp lý"
+    },
+    {
+        "word": "solid",
+        "mean": "chất rắn"
+    },
+    {
+        "word": "representative",
+        "mean": "tiêu biểu"
+    },
+    {
+        "word": "crowd",
+        "mean": "đám đông"
+    },
+    {
+        "word": "stick",
+        "mean": "dán"
+    },
+    {
+        "word": "favor",
+        "mean": "ủng hộ"
+    },
+    {
+        "word": "unless",
+        "mean": "Trừ khi"
+    },
+    {
+        "word": "signal",
+        "mean": "tín hiệu"
+    },
+    {
+        "word": "shelter",
+        "mean": "nơi trú ẩn"
+    },
+    {
+        "word": "excite",
+        "mean": "kích động"
+    },
+    {
+        "word": "duty",
+        "mean": "nhiệm vụ"
+    },
+    {
+        "word": "compose",
+        "mean": "soạn"
+    },
+    {
+        "word": "expense",
+        "mean": "chi phí"
+    },
+    {
+        "word": "cattle",
+        "mean": "gia súc"
+    },
+    {
+        "word": "dust",
+        "mean": "bụi"
+    },
+    {
+        "word": "admit",
+        "mean": "thừa nhận"
+    },
+    {
+        "word": "tire",
+        "mean": "lốp xe"
+    },
+    {
+        "word": "expression",
+        "mean": "sự biểu lộ"
+    },
+    {
+        "word": "belong",
+        "mean": "thuộc về"
+    },
+    {
+        "word": "rich",
+        "mean": "giàu có"
+    },
+    {
+        "word": "struggle",
+        "mean": "đấu tranh"
+    },
+    {
+        "word": "instrument",
+        "mean": "dụng cụ"
+    },
+    {
+        "word": "variety",
+        "mean": "đa dạng"
+    },
+    {
+        "word": "narrow",
+        "mean": "chật hẹp"
+    },
+    {
+        "word": "theater",
+        "mean": "nhà hát"
+    },
+    {
+        "word": "collection",
+        "mean": "bộ sưu tập"
+    },
+    {
+        "word": "preserve",
+        "mean": "bảo tồn"
+    },
+    {
+        "word": "leadership",
+        "mean": "Khả năng lãnh đạo"
+    },
+    {
+        "word": "clay",
+        "mean": "đất sét"
+    },
+    {
+        "word": "fellow",
+        "mean": "đồng nghiệp"
+    },
+    {
+        "word": "swing",
+        "mean": "xích đu"
+    },
+    {
+        "word": "reserve",
+        "mean": "dự trữ"
+    },
+    {
+        "word": "warn",
+        "mean": "cảnh báo"
+    },
+    {
+        "word": "bitter",
+        "mean": "vị đắng"
+    },
+    {
+        "word": "scientific",
+        "mean": "có tính khoa học"
+    },
+    {
+        "word": "gather",
+        "mean": "tập trung"
+    },
+    {
+        "word": "moreover",
+        "mean": "Hơn thế nữa"
+    },
+    {
+        "word": "belief",
+        "mean": "sự tin tưởng"
+    },
+    {
+        "word": "ordinary",
+        "mean": "bình thường"
+    },
+    {
+        "word": "speech",
+        "mean": "lời nói"
+    },
+    {
+        "word": "stain",
+        "mean": "vết ố"
+    },
+    {
+        "word": "stretch",
+        "mean": "kéo dài"
+    },
+    {
+        "word": "village",
+        "mean": "làng bản"
+    },
+    {
+        "word": "blow",
+        "mean": "thổi"
+    },
+    {
+        "word": "shout",
+        "mean": "hét lên"
+    },
+    {
+        "word": "guard",
+        "mean": "canh gác"
+    },
+    {
+        "word": "exchange",
+        "mean": "trao đổi"
+    },
+    {
+        "word": "rare",
+        "mean": "hiếm"
+    },
+    {
+        "word": "commercial",
+        "mean": "thuộc về thương mại"
+    },
+    {
+        "word": "appoint",
+        "mean": "bổ nhiệm"
+    },
+    {
+        "word": "agent",
+        "mean": "đại lý"
+    },
+    {
+        "word": "dependence",
+        "mean": "sự phụ thuộc"
+    },
+    {
+        "word": "seed",
+        "mean": "hạt giống"
+    },
+    {
+        "word": "loan",
+        "mean": "khoản vay"
+    },
+    {
+        "word": "plain",
+        "mean": "đơn giản"
+    },
+    {
+        "word": "retire",
+        "mean": "về hưu"
+    },
+    {
+        "word": "opposite",
+        "mean": "đối diện"
+    },
+    {
+        "word": "prefer",
+        "mean": "thích hơn"
+    },
+    {
+        "word": "lift",
+        "mean": "thang máy"
+    },
+    {
+        "word": "literary",
+        "mean": "văn học"
+    },
+    {
+        "word": "curious",
+        "mean": "tò mò"
+    },
+    {
+        "word": "tie",
+        "mean": "cà vạt"
+    },
+    {
+        "word": "flat",
+        "mean": "phẳng"
+    },
+    {
+        "word": "neck",
+        "mean": "cổ"
+    },
+    {
+        "word": "delight",
+        "mean": "hân hoan"
+    },
+    {
+        "word": "valley",
+        "mean": "thung lũng"
+    },
+    {
+        "word": "tool",
+        "mean": "dụng cụ"
+    },
+    {
+        "word": "presence",
+        "mean": "sự hiện diện"
+    },
+    {
+        "word": "railroad",
+        "mean": "đường sắt"
+    },
+    {
+        "word": "minister",
+        "mean": "bộ trưởng"
+    },
+    {
+        "word": "profit",
+        "mean": "lợi nhuận"
+    },
+    {
+        "word": "lord",
+        "mean": "chúa tể"
+    },
+    {
+        "word": "slave",
+        "mean": "nô lệ"
+    },
+    {
+        "word": "chairman",
+        "mean": "chủ tịch"
+    },
+    {
+        "word": "soil",
+        "mean": "đất"
+    },
+    {
+        "word": "distinguish",
+        "mean": "phân biệt"
+    },
+    {
+        "word": "introduce",
+        "mean": "giới thiệu"
+    },
+    {
+        "word": "urge",
+        "mean": "thúc giục"
+    },
+    {
+        "word": "blind",
+        "mean": "mù"
+    },
+    {
+        "word": "arise",
+        "mean": "phát sinh"
+    },
+    {
+        "word": "upper",
+        "mean": "phía trên"
+    },
+    {
+        "word": "entertain",
+        "mean": "giải trí"
+    },
+    {
+        "word": "stone",
+        "mean": "cục đá"
+    },
+    {
+        "word": "lean",
+        "mean": "độ nghiêng"
+    },
+    {
+        "word": "mystery",
+        "mean": "bí ẩn"
+    },
+    {
+        "word": "stream",
+        "mean": "suối"
+    },
+    {
+        "word": "avenue",
+        "mean": "đại lộ"
+    },
+    {
+        "word": "brown",
+        "mean": "màu nâu"
+    },
+    {
+        "word": "disease",
+        "mean": "bệnh"
+    },
+    {
+        "word": "formal",
+        "mean": "chính thức"
+    },
+    {
+        "word": "snow",
+        "mean": "tuyết"
+    },
+    {
+        "word": "somehow",
+        "mean": "bằng cách nào đó"
+    },
+    {
+        "word": "unity",
+        "mean": "đoàn kết"
+    },
+    {
+        "word": "rough",
+        "mean": "thô"
+    },
+    {
+        "word": "steady",
+        "mean": "vững chắc"
+    },
+    {
+        "word": "threaten",
+        "mean": "hăm dọa"
+    },
+    {
+        "word": "oppose",
+        "mean": "phản đối"
+    },
+    {
+        "word": "ancient",
+        "mean": "cổ đại"
+    },
+    {
+        "word": "pray",
+        "mean": "cầu nguyện"
+    },
+    {
+        "word": "adopt",
+        "mean": "nhận nuôi"
+    },
+    {
+        "word": "coast",
+        "mean": "bờ biển"
+    },
+    {
+        "word": "furnish",
+        "mean": "trang bị"
+    },
+    {
+        "word": "wire",
+        "mean": "dây điện"
+    },
+    {
+        "word": "proposal",
+        "mean": "đề xuất"
+    },
+    {
+        "word": "ought",
+        "mean": "nên"
+    },
+    {
+        "word": "quarter",
+        "mean": "một phần tư"
+    },
+    {
+        "word": "fool",
+        "mean": "ngu xuẩn"
+    },
+    {
+        "word": "intend",
+        "mean": "có ý định"
+    },
+    {
+        "word": "intention",
+        "mean": "chủ đích"
+    },
+    {
+        "word": "politics",
+        "mean": "chính trị"
+    },
+    {
+        "word": "passage",
+        "mean": "đoạn văn"
+    },
+    {
+        "word": "gradual",
+        "mean": "dần dần"
+    },
+    {
+        "word": "roof",
+        "mean": "mái nhà"
+    },
+    {
+        "word": "witness",
+        "mean": "nhân chứng"
+    },
+    {
+        "word": "aside",
+        "mean": "sang một bên"
+    },
+    {
+        "word": "shore",
+        "mean": "bờ biển"
+    },
+    {
+        "word": "operator",
+        "mean": "toán tử"
+    },
+    {
+        "word": "civilize",
+        "mean": "văn minh hóa"
+    },
+    {
+        "word": "being",
+        "mean": "hiện tại"
+    },
+    {
+        "word": "bind",
+        "mean": "ràng buộc"
+    },
+    {
+        "word": "colony",
+        "mean": "thuộc địa"
+    },
+    {
+        "word": "slip",
+        "mean": "trượt"
+    },
+    {
+        "word": "cousin",
+        "mean": "anh em họ"
+    },
+    {
+        "word": "relief",
+        "mean": "sự cứu tế"
+    },
+    {
+        "word": "stem",
+        "mean": "thân cây"
+    },
+    {
+        "word": "bend",
+        "mean": "uốn cong"
+    },
+    {
+        "word": "guilt",
+        "mean": "cảm giác tội lỗi"
+    },
+    {
+        "word": "yield",
+        "mean": "năng suất"
+    },
+    {
+        "word": "pale",
+        "mean": "tái nhợt"
+    },
+    {
+        "word": "sweep",
+        "mean": "quét"
+    },
+    {
+        "word": "throat",
+        "mean": "cổ họng"
+    },
+    {
+        "word": "agriculture",
+        "mean": "nông nghiệp"
+    },
+    {
+        "word": "admire",
+        "mean": "ngưỡng mộ"
+    },
+    {
+        "word": "gentle",
+        "mean": "dịu dàng"
+    },
+    {
+        "word": "dozen",
+        "mean": "tá"
+    },
+    {
+        "word": "particle",
+        "mean": "hạt"
+    },
+    {
+        "word": "pleasant",
+        "mean": "dễ thương"
+    },
+    {
+        "word": "competition",
+        "mean": "cuộc thi"
+    },
+    {
+        "word": "mechanic",
+        "mean": "thợ cơ khí"
+    },
+    {
+        "word": "plenty",
+        "mean": "nhiều"
+    },
+    {
+        "word": "thorough",
+        "mean": "kỹ lưỡng"
+    },
+    {
+        "word": "surround",
+        "mean": "bao quanh"
+    },
+    {
+        "word": "proud",
+        "mean": "tự hào"
+    },
+    {
+        "word": "onto",
+        "mean": "lên"
+    },
+    {
+        "word": "machinery",
+        "mean": "máy móc"
+    },
+    {
+        "word": "severe",
+        "mean": "nghiêm trọng"
+    },
+    {
+        "word": "rush",
+        "mean": "cây bấc"
+    },
+    {
+        "word": "commerce",
+        "mean": "thương mại"
+    },
+    {
+        "word": "joint",
+        "mean": "chung"
+    },
+    {
+        "word": "suspect",
+        "mean": "nghi ngờ"
+    },
+    {
+        "word": "afford",
+        "mean": "đủ khả năng"
+    },
+    {
+        "word": "instant",
+        "mean": "lập tức"
+    },
+    {
+        "word": "satisfactory",
+        "mean": "thỏa đáng"
+    },
+    {
+        "word": "grass",
+        "mean": "cỏ"
+    },
+    {
+        "word": "entrance",
+        "mean": "cổng vào"
+    },
+    {
+        "word": "sink",
+        "mean": "bồn rửa"
+    },
+    {
+        "word": "northern",
+        "mean": "phương bắc"
+    },
+    {
+        "word": "ill",
+        "mean": "ốm"
+    },
+    {
+        "word": "violent",
+        "mean": "hung bạo"
+    },
+    {
+        "word": "beneath",
+        "mean": "bên dưới"
+    },
+    {
+        "word": "tough",
+        "mean": "khó"
+    },
+    {
+        "word": "substance",
+        "mean": "chất"
+    },
+    {
+        "word": "threat",
+        "mean": "mối đe dọa"
+    },
+    {
+        "word": "charm",
+        "mean": "quyến rũ"
+    },
+    {
+        "word": "absence",
+        "mean": "sự vắng mặt"
+    },
+    {
+        "word": "spite",
+        "mean": "bất chấp"
+    },
+    {
+        "word": "liberty",
+        "mean": "tự do"
+    },
+    {
+        "word": "wise",
+        "mean": "khôn ngoan"
+    },
+    {
+        "word": "tube",
+        "mean": "ống"
+    },
+    {
+        "word": "twist",
+        "mean": "xoắn"
+    },
+    {
+        "word": "fence",
+        "mean": "hàng rào"
+    },
+    {
+        "word": "joy",
+        "mean": "vui sướng"
+    },
+    {
+        "word": "efficiency",
+        "mean": "hiệu quả"
+    },
+    {
+        "word": "extensive",
+        "mean": "rộng rãi"
+    },
+    {
+        "word": "rent",
+        "mean": "thuê"
+    },
+    {
+        "word": "possess",
+        "mean": "sở hữu"
+    },
+    {
+        "word": "grace",
+        "mean": "duyên dáng"
+    },
+    {
+        "word": "flesh",
+        "mean": "thịt"
+    },
+    {
+        "word": "scientist",
+        "mean": "nhà khoa học"
+    },
+    {
+        "word": "sympathy",
+        "mean": "sự đồng cảm"
+    },
+    {
+        "word": "shade",
+        "mean": "bóng râm"
+    },
+    {
+        "word": "accuse",
+        "mean": "buộc tội"
+    },
+    {
+        "word": "frighten",
+        "mean": "làm sợ hãi"
+    },
+    {
+        "word": "grave",
+        "mean": "phần mộ"
+    },
+    {
+        "word": "abroad",
+        "mean": "ở nước ngoài"
+    },
+    {
+        "word": "wound",
+        "mean": "vết thương"
+    },
+    {
+        "word": "virtue",
+        "mean": "đức hạnh"
+    },
+    {
+        "word": "attract",
+        "mean": "thu hút"
+    },
+    {
+        "word": "numerous",
+        "mean": "nhiều"
+    },
+    {
+        "word": "shut",
+        "mean": "đóng lại"
+    },
+    {
+        "word": "forgive",
+        "mean": "tha thứ"
+    },
+    {
+        "word": "holy",
+        "mean": "thánh thiện"
+    },
+    {
+        "word": "wooden",
+        "mean": "bằng gỗ"
+    },
+    {
+        "word": "crime",
+        "mean": "tội phạm"
+    },
+    {
+        "word": "republic",
+        "mean": "nước cộng hòa"
+    },
+    {
+        "word": "anger",
+        "mean": "sự tức giận"
+    },
+    {
+        "word": "visitor",
+        "mean": "du khách"
+    },
+    {
+        "word": "pile",
+        "mean": "đống"
+    },
+    {
+        "word": "violence",
+        "mean": "bạo lực"
+    },
+    {
+        "word": "stair",
+        "mean": "cầu thang"
+    },
+    {
+        "word": "pour",
+        "mean": "đổ"
+    },
+    {
+        "word": "confusion",
+        "mean": "lú lẫn"
+    },
+    {
+        "word": "burst",
+        "mean": "nổ tung"
+    },
+    {
+        "word": "resistance",
+        "mean": "sức chống cự"
+    },
+    {
+        "word": "screw",
+        "mean": "vít"
+    },
+    {
+        "word": "pride",
+        "mean": "kiêu hãnh"
+    },
+    {
+        "word": "till",
+        "mean": "cho đến khi"
+    },
+    {
+        "word": "preach",
+        "mean": "rao giảng"
+    },
+    {
+        "word": "clerk",
+        "mean": "nhân viên văn phòng"
+    },
+    {
+        "word": "efficient",
+        "mean": "có hiệu quả"
+    },
+    {
+        "word": "grain",
+        "mean": "ngũ cốc"
+    },
+    {
+        "word": "opposition",
+        "mean": "sự phản đối"
+    },
+    {
+        "word": "worship",
+        "mean": "tôn thờ"
+    },
+    {
+        "word": "arrest",
+        "mean": "bắt giữ"
+    },
+    {
+        "word": "discipline",
+        "mean": "kỷ luật"
+    },
+    {
+        "word": "harbor",
+        "mean": "hải cảng"
+    },
+    {
+        "word": "mechanism",
+        "mean": "cơ chế"
+    },
+    {
+        "word": "grand",
+        "mean": "vĩ đại"
+    },
+    {
+        "word": "insurance",
+        "mean": "bảo hiểm"
+    },
+    {
+        "word": "qualify",
+        "mean": "đủ điều kiện"
+    },
+    {
+        "word": "elsewhere",
+        "mean": "nơi khác"
+    },
+    {
+        "word": "interference",
+        "mean": "sự can thiệp"
+    },
+    {
+        "word": "pupil",
+        "mean": "học sinh"
+    },
+    {
+        "word": "fold",
+        "mean": "nếp gấp"
+    },
+    {
+        "word": "royal",
+        "mean": "hoàng gia"
+    },
+    {
+        "word": "valuable",
+        "mean": "có giá trị lớn"
+    },
+    {
+        "word": "whisper",
+        "mean": "thì thầm"
+    },
+    {
+        "word": "excess",
+        "mean": "thặng dư"
+    },
+    {
+        "word": "mud",
+        "mean": "bùn"
+    },
+    {
+        "word": "sail",
+        "mean": "chèo"
+    },
+    {
+        "word": "attractive",
+        "mean": "hấp dẫn"
+    },
+    {
+        "word": "habit",
+        "mean": "thói quen"
+    },
+    {
+        "word": "relieve",
+        "mean": "dịu đi"
+    },
+    {
+        "word": "persuade",
+        "mean": "thuyết phục"
+    },
+    {
+        "word": "certainty",
+        "mean": "sự chắc chắn"
+    },
+    {
+        "word": "cloth",
+        "mean": "vải"
+    },
+    {
+        "word": "eager",
+        "mean": "háo hức"
+    },
+    {
+        "word": "sympathetic",
+        "mean": "thông cảm"
+    },
+    {
+        "word": "cure",
+        "mean": "sự chữa bệnh"
+    },
+    {
+        "word": "puzzle",
+        "mean": "câu đố"
+    },
+    {
+        "word": "powder",
+        "mean": "bột"
+    },
+    {
+        "word": "mankind",
+        "mean": "nhân loại"
+    },
+    {
+        "word": "blame",
+        "mean": "đổ tội"
+    },
+    {
+        "word": "anxiety",
+        "mean": "sự lo lắng"
+    },
+    {
+        "word": "tremble",
+        "mean": "run rẩy"
+    },
+    {
+        "word": "sacred",
+        "mean": "thiêng liêng"
+    },
+    {
+        "word": "fortunate",
+        "mean": "may mắn"
+    },
+    {
+        "word": "glory",
+        "mean": "vinh quang"
+    },
+    {
+        "word": "neat",
+        "mean": "gọn gàng"
+    },
+    {
+        "word": "overcome",
+        "mean": "vượt qua"
+    },
+    {
+        "word": "sacrifice",
+        "mean": "hy sinh"
+    },
+    {
+        "word": "complain",
+        "mean": "phàn nàn"
+    },
+    {
+        "word": "elect",
+        "mean": "bầu cử"
+    },
+    {
+        "word": "roar",
+        "mean": "kêu la"
+    },
+    {
+        "word": "sake",
+        "mean": "vì lợi ích"
+    },
+    {
+        "word": "temple",
+        "mean": "ngôi đền"
+    },
+    {
+        "word": "compete",
+        "mean": "hoàn thành"
+    },
+    {
+        "word": "stuff",
+        "mean": "chất liệu"
+    },
+    {
+        "word": "stomach",
+        "mean": "cái bụng"
+    },
+    {
+        "word": "peculiar",
+        "mean": "riêng"
+    },
+    {
+        "word": "ton",
+        "mean": "tấn"
+    },
+    {
+        "word": "desert",
+        "mean": "sa mạc"
+    },
+    {
+        "word": "allowance",
+        "mean": "trợ cấp"
+    },
+    {
+        "word": "servant",
+        "mean": "người hầu"
+    },
+    {
+        "word": "hunger",
+        "mean": "đói"
+    },
+    {
+        "word": "conscience",
+        "mean": "lương tâm"
+    },
+    {
+        "word": "crash",
+        "mean": "tai nạn"
+    },
+    {
+        "word": "strengthen",
+        "mean": "tăng cường"
+    },
+    {
+        "word": "generous",
+        "mean": "hào phóng"
+    },
+    {
+        "word": "whip",
+        "mean": "roi da"
+    },
+    {
+        "word": "mill",
+        "mean": "cối xay"
+    },
+    {
+        "word": "merchant",
+        "mean": "thương gia"
+    },
+    {
+        "word": "coal",
+        "mean": "than đá"
+    },
+    {
+        "word": "ruin",
+        "mean": "sự đổ nát"
+    },
+    {
+        "word": "courage",
+        "mean": "lòng can đảm"
+    },
+    {
+        "word": "belt",
+        "mean": "thắt lưng"
+    },
+    {
+        "word": "stir",
+        "mean": "khuấy động"
+    },
+    {
+        "word": "punish",
+        "mean": "trừng phạt"
+    },
+    {
+        "word": "reflection",
+        "mean": "sự phản xạ"
+    },
+    {
+        "word": "amuse",
+        "mean": "thích thú"
+    },
+    {
+        "word": "dull",
+        "mean": "đần độn"
+    },
+    {
+        "word": "fellowship",
+        "mean": "học bổng"
+    },
+    {
+        "word": "furniture",
+        "mean": "nội thất"
+    },
+    {
+        "word": "beam",
+        "mean": "chùm tia"
+    },
+    {
+        "word": "disappoint",
+        "mean": "thất vọng"
+    },
+    {
+        "word": "bless",
+        "mean": "ban phước"
+    },
+    {
+        "word": "corn",
+        "mean": "ngô"
+    },
+    {
+        "word": "shell",
+        "mean": "vỏ bọc"
+    },
+    {
+        "word": "tempt",
+        "mean": "cám dỗ"
+    },
+    {
+        "word": "destruction",
+        "mean": "sự phá hủy"
+    },
+    {
+        "word": "dive",
+        "mean": "lặn"
+    },
+    {
+        "word": "anxious",
+        "mean": "lo lắng"
+    },
+    {
+        "word": "shine",
+        "mean": "chiếu sáng"
+    },
+    {
+        "word": "dish",
+        "mean": "món ăn"
+    },
+    {
+        "word": "distant",
+        "mean": "xa xôi"
+    },
+    {
+        "word": "greet",
+        "mean": "chào"
+    },
+    {
+        "word": "flood",
+        "mean": "lụt"
+    },
+    {
+        "word": "excuse",
+        "mean": "thứ lỗi"
+    },
+    {
+        "word": "insect",
+        "mean": "côn trùng"
+    },
+    {
+        "word": "ocean",
+        "mean": "đại dương"
+    },
+    {
+        "word": "ceremony",
+        "mean": "lễ"
+    },
+    {
+        "word": "prize",
+        "mean": "phần thưởng"
+    },
+    {
+        "word": "harm",
+        "mean": "làm hại"
+    },
+    {
+        "word": "insure",
+        "mean": "bảo đảm"
+    },
+    {
+        "word": "verse",
+        "mean": "thơ"
+    },
+    {
+        "word": "pot",
+        "mean": "cái nồi"
+    },
+    {
+        "word": "sincere",
+        "mean": "chân thành"
+    },
+    {
+        "word": "cotton",
+        "mean": "bông"
+    },
+    {
+        "word": "stroke",
+        "mean": "đột quỵ"
+    },
+    {
+        "word": "lung",
+        "mean": "phổi"
+    },
+    {
+        "word": "admission",
+        "mean": "nhập học"
+    },
+    {
+        "word": "scratch",
+        "mean": "cào"
+    },
+    {
+        "word": "composition",
+        "mean": "thành phần"
+    },
+    {
+        "word": "resist",
+        "mean": "kháng cự"
+    },
+    {
+        "word": "neglect",
+        "mean": "sao nhãng"
+    },
+    {
+        "word": "absent",
+        "mean": "vắng mặt"
+    },
+    {
+        "word": "passenger",
+        "mean": "hành khách"
+    },
+    {
+        "word": "beg",
+        "mean": "ăn xin"
+    },
+    {
+        "word": "pipe",
+        "mean": "đường ống"
+    },
+    {
+        "word": "meanwhile",
+        "mean": "trong khi đó"
+    },
+    {
+        "word": "nut",
+        "mean": "hạt"
+    },
+    {
+        "word": "melt",
+        "mean": "tan chảy"
+    },
+    {
+        "word": "swear",
+        "mean": "thề"
+    },
+    {
+        "word": "bury",
+        "mean": "chôn"
+    },
+    {
+        "word": "wipe",
+        "mean": "lau đi"
+    },
+    {
+        "word": "faint",
+        "mean": "ngất xỉu"
+    },
+    {
+        "word": "creature",
+        "mean": "sinh vật"
+    },
+    {
+        "word": "earnest",
+        "mean": "nghiêm trang"
+    },
+    {
+        "word": "suspicion",
+        "mean": "sự nghi ngờ"
+    },
+    {
+        "word": "noble",
+        "mean": "cao quý"
+    },
+    {
+        "word": "inquiry",
+        "mean": "cuộc điều tra"
+    },
+    {
+        "word": "hesitate",
+        "mean": "do dự"
+    },
+    {
+        "word": "extraordinary",
+        "mean": "đặc biệt"
+    },
+    {
+        "word": "borrow",
+        "mean": "vay mượn"
+    },
+    {
+        "word": "owe",
+        "mean": "nợ"
+    },
+    {
+        "word": "funeral",
+        "mean": "tang lễ"
+    },
+    {
+        "word": "ambition",
+        "mean": "tham vọng"
+    },
+    {
+        "word": "mixture",
+        "mean": "hỗn hợp"
+    },
+    {
+        "word": "slope",
+        "mean": "độ dốc"
+    },
+    {
+        "word": "criminal",
+        "mean": "tội phạm"
+    },
+    {
+        "word": "seldom",
+        "mean": "hiếm khi"
+    },
+    {
+        "word": "praise",
+        "mean": "khen"
+    },
+    {
+        "word": "spare",
+        "mean": "dự phòng"
+    },
+    {
+        "word": "plow",
+        "mean": "cày"
+    },
+    {
+        "word": "telegraph",
+        "mean": "điện báo"
+    },
+    {
+        "word": "straighten",
+        "mean": "làm thẳng"
+    },
+    {
+        "word": "scarce",
+        "mean": "khan hiếm"
+    },
+    {
+        "word": "slavery",
+        "mean": "chế độ nô lệ"
+    },
+    {
+        "word": "creep",
+        "mean": "leo"
+    },
+    {
+        "word": "sweat",
+        "mean": "mồ hôi"
+    },
+    {
+        "word": "stiff",
+        "mean": "cứng nhắc"
+    },
+    {
+        "word": "seize",
+        "mean": "nắm bắt"
+    },
+    {
+        "word": "convenient",
+        "mean": "thuận lợi"
+    },
+    {
+        "word": "horizon",
+        "mean": "chân trời"
+    },
+    {
+        "word": "moderate",
+        "mean": "vừa phải"
+    },
+    {
+        "word": "complicate",
+        "mean": "làm phức tạp"
+    },
+    {
+        "word": "dig",
+        "mean": "đào"
+    },
+    {
+        "word": "curse",
+        "mean": "nguyền rủa"
+    },
+    {
+        "word": "priest",
+        "mean": "linh mục"
+    },
+    {
+        "word": "excessive",
+        "mean": "quá mức"
+    },
+    {
+        "word": "quarrel",
+        "mean": "cãi nhau"
+    },
+    {
+        "word": "modest",
+        "mean": "khiêm tốn"
+    },
+    {
+        "word": "dine",
+        "mean": "ăn cơm trưa"
+    },
+    {
+        "word": "politician",
+        "mean": "chính trị gia"
+    },
+    {
+        "word": "custom",
+        "mean": "phong tục"
+    },
+    {
+        "word": "educate",
+        "mean": "giáo dục"
+    },
+    {
+        "word": "salesman",
+        "mean": "người bán hàng"
+    },
+    {
+        "word": "eastern",
+        "mean": "phương đông"
+    },
+    {
+        "word": "possession",
+        "mean": "chiếm hữu"
+    },
+    {
+        "word": "satisfaction",
+        "mean": "sự hài lòng"
+    },
+    {
+        "word": "mercy",
+        "mean": "lòng thương xót"
+    },
+    {
+        "word": "scatter",
+        "mean": "tiêu tan"
+    },
+    {
+        "word": "objection",
+        "mean": "phản đối"
+    },
+    {
+        "word": "tent",
+        "mean": "lều"
+    },
+    {
+        "word": "saddle",
+        "mean": "yên xe"
+    },
+    {
+        "word": "grind",
+        "mean": "xay"
+    },
+    {
+        "word": "spell",
+        "mean": "Đánh vần"
+    },
+    {
+        "word": "plaster",
+        "mean": "thạch cao"
+    },
+    {
+        "word": "arch",
+        "mean": "vòm"
+    },
+    {
+        "word": "swell",
+        "mean": "sưng lên"
+    },
+    {
+        "word": "friendship",
+        "mean": "tình bạn"
+    },
+    {
+        "word": "bath",
+        "mean": "bồn tắm"
+    },
+    {
+        "word": "bundle",
+        "mean": "bó"
+    },
+    {
+        "word": "grateful",
+        "mean": "tri ân"
+    },
+    {
+        "word": "boundary",
+        "mean": "ranh giới"
+    },
+    {
+        "word": "nowhere",
+        "mean": "hư không"
+    },
+    {
+        "word": "asleep",
+        "mean": "ngủ"
+    },
+    {
+        "word": "boil",
+        "mean": "đun sôi"
+    },
+    {
+        "word": "altogether",
+        "mean": "toàn bộ"
+    },
+    {
+        "word": "lend",
+        "mean": "cho mượn"
+    },
+    {
+        "word": "precious",
+        "mean": "quý giá"
+    },
+    {
+        "word": "wander",
+        "mean": "đi lang thang"
+    },
+    {
+        "word": "ugly",
+        "mean": "xấu xí"
+    },
+    {
+        "word": "reputation",
+        "mean": "danh tiếng"
+    },
+    {
+        "word": "pretend",
+        "mean": "giả vờ"
+    },
+    {
+        "word": "delicate",
+        "mean": "thanh tú"
+    },
+    {
+        "word": "despair",
+        "mean": "tuyệt vọng"
+    },
+    {
+        "word": "awake",
+        "mean": "thức giấc"
+    },
+    {
+        "word": "fortune",
+        "mean": "vận may"
+    },
+    {
+        "word": "cap",
+        "mean": "mũ lưỡi trai"
+    },
+    {
+        "word": "thread",
+        "mean": "chủ đề"
+    },
+    {
+        "word": "haste",
+        "mean": "vội vàng"
+    },
+    {
+        "word": "bare",
+        "mean": "trần trụi"
+    },
+    {
+        "word": "bargain",
+        "mean": "mặc cả"
+    },
+    {
+        "word": "leather",
+        "mean": "da thú"
+    },
+    {
+        "word": "rail",
+        "mean": "đường sắt"
+    },
+    {
+        "word": "butter",
+        "mean": "bơ"
+    },
+    {
+        "word": "inquire",
+        "mean": "hỏi thăm"
+    },
+    {
+        "word": "warmth",
+        "mean": "sự ấm áp"
+    },
+    {
+        "word": "decisive",
+        "mean": "quyết định"
+    },
+    {
+        "word": "vessel",
+        "mean": "tàu"
+    },
+    {
+        "word": "pity",
+        "mean": "lòng thương xót"
+    },
+    {
+        "word": "steam",
+        "mean": "hơi nước"
+    },
+    {
+        "word": "bound",
+        "mean": "ràng buộc"
+    },
+    {
+        "word": "companion",
+        "mean": "bạn đồng hành"
+    },
+    {
+        "word": "toe",
+        "mean": "ngón chân"
+    },
+    {
+        "word": "forbid",
+        "mean": "cấm"
+    },
+    {
+        "word": "tower",
+        "mean": "tháp"
+    },
+    {
+        "word": "bathe",
+        "mean": "tắm"
+    },
+    {
+        "word": "lodge",
+        "mean": "nhà trọ"
+    },
+    {
+        "word": "swallow",
+        "mean": "nuốt"
+    },
+    {
+        "word": "bow",
+        "mean": "cây cung"
+    },
+    {
+        "word": "kingdom",
+        "mean": "vương quốc"
+    },
+    {
+        "word": "garage",
+        "mean": "ga-ra"
+    },
+    {
+        "word": "pump",
+        "mean": "bơm"
+    },
+    {
+        "word": "prevention",
+        "mean": "phòng ngừa"
+    },
+    {
+        "word": "urgent",
+        "mean": "cấp bách"
+    },
+    {
+        "word": "idle",
+        "mean": "nhàn rỗi"
+    },
+    {
+        "word": "fever",
+        "mean": "sốt"
+    },
+    {
+        "word": "christmas",
+        "mean": "Giáng sinh"
+    },
+    {
+        "word": "regret",
+        "mean": "hối tiếc"
+    },
+    {
+        "word": "jaw",
+        "mean": "hàm"
+    },
+    {
+        "word": "soap",
+        "mean": "xà phòng"
+    },
+    {
+        "word": "pronounce",
+        "mean": "phát âm"
+    },
+    {
+        "word": "empire",
+        "mean": "đế chế"
+    },
+    {
+        "word": "bowl",
+        "mean": "cái bát"
+    },
+    {
+        "word": "outline",
+        "mean": "phác thảo"
+    },
+    {
+        "word": "organ",
+        "mean": "cơ quan"
+    },
+    {
+        "word": "imitation",
+        "mean": "bắt chước"
+    },
+    {
+        "word": "mineral",
+        "mean": "khoáng sản"
+    },
+    {
+        "word": "blade",
+        "mean": "lưỡi dao"
+    },
+    {
+        "word": "immense",
+        "mean": "bao la"
+    },
+    {
+        "word": "disapprove",
+        "mean": "không chấp thuận"
+    },
+    {
+        "word": "destructive",
+        "mean": "phá hoại"
+    },
+    {
+        "word": "noon",
+        "mean": "buổi trưa"
+    },
+    {
+        "word": "ownership",
+        "mean": "quyền sở hữu"
+    },
+    {
+        "word": "tune",
+        "mean": "điều chỉnh"
+    },
+    {
+        "word": "polish",
+        "mean": "đánh bóng"
+    },
+    {
+        "word": "poison",
+        "mean": "chất độc"
+    },
+    {
+        "word": "shame",
+        "mean": "nỗi tủi nhục"
+    },
+    {
+        "word": "loyalty",
+        "mean": "lòng trung thành"
+    },
+    {
+        "word": "cottage",
+        "mean": "ngôi nhà tranh"
+    },
+    {
+        "word": "astonish",
+        "mean": "kinh ngạc"
+    },
+    {
+        "word": "shave",
+        "mean": "cạo râu"
+    },
+    {
+        "word": "feather",
+        "mean": "lông vũ"
+    },
+    {
+        "word": "sauce",
+        "mean": "nước xốt"
+    },
+    {
+        "word": "lid",
+        "mean": "nắp"
+    },
+    {
+        "word": "debt",
+        "mean": "món nợ"
+    },
+    {
+        "word": "confess",
+        "mean": "xưng"
+    },
+    {
+        "word": "descend",
+        "mean": "đi xuống"
+    },
+    {
+        "word": "cape",
+        "mean": "mũi"
+    },
+    {
+        "word": "mild",
+        "mean": "nhẹ"
+    },
+    {
+        "word": "envelope",
+        "mean": "phong bì"
+    },
+    {
+        "word": "invention",
+        "mean": "sự phát minh"
+    },
+    {
+        "word": "sheep",
+        "mean": "con cừu"
+    },
+    {
+        "word": "splendid",
+        "mean": "lộng lẫy"
+    },
+    {
+        "word": "stamp",
+        "mean": "con tem"
+    },
+    {
+        "word": "float",
+        "mean": "trôi nổi"
+    },
+    {
+        "word": "brick",
+        "mean": "gạch"
+    },
+    {
+        "word": "businessman",
+        "mean": "doanh nhân"
+    },
+    {
+        "word": "backward",
+        "mean": "lạc hậu"
+    },
+    {
+        "word": "qualification",
+        "mean": "trình độ chuyên môn"
+    },
+    {
+        "word": "artificial",
+        "mean": "nhân tạo"
+    },
+    {
+        "word": "attraction",
+        "mean": "sự thu hút"
+    },
+    {
+        "word": "lamp",
+        "mean": "đèn"
+    },
+    {
+        "word": "curl",
+        "mean": "cuộn tròn"
+    },
+    {
+        "word": "elder",
+        "mean": "người lớn tuổi"
+    },
+    {
+        "word": "bunch",
+        "mean": "bó"
+    },
+    {
+        "word": "bell",
+        "mean": "chuông"
+    },
+    {
+        "word": "steer",
+        "mean": "chỉ đạo"
+    },
+    {
+        "word": "flavor",
+        "mean": "hương vị"
+    },
+    {
+        "word": "spit",
+        "mean": "nhổ"
+    },
+    {
+        "word": "rob",
+        "mean": "cướp"
+    },
+    {
+        "word": "cream",
+        "mean": "kem"
+    },
+    {
+        "word": "interrupt",
+        "mean": "ngắt"
+    },
+    {
+        "word": "weave",
+        "mean": "dệt"
+    },
+    {
+        "word": "rescue",
+        "mean": "giải thoát"
+    },
+    {
+        "word": "crush",
+        "mean": "người mình thích"
+    },
+    {
+        "word": "humble",
+        "mean": "khiêm tốn"
+    },
+    {
+        "word": "fancy",
+        "mean": "si mê"
+    },
+    {
+        "word": "decay",
+        "mean": "phân rã"
+    },
+    {
+        "word": "polite",
+        "mean": "lịch sự"
+    },
+    {
+        "word": "tribe",
+        "mean": "bộ lạc"
+    },
+    {
+        "word": "bleed",
+        "mean": "chảy máu"
+    },
+    {
+        "word": "fond",
+        "mean": "ngây thơ"
+    },
+    {
+        "word": "autumn",
+        "mean": "mùa thu"
+    },
+    {
+        "word": "classify",
+        "mean": "phân loại"
+    },
+    {
+        "word": "omit",
+        "mean": "bỏ qua"
+    },
+    {
+        "word": "loyal",
+        "mean": "trung thành"
+    },
+    {
+        "word": "needle",
+        "mean": "cây kim"
+    },
+    {
+        "word": "lessen",
+        "mean": "giảm bớt"
+    },
+    {
+        "word": "complaint",
+        "mean": "lời phàn nàn"
+    },
+    {
+        "word": "pad",
+        "mean": "đệm"
+    },
+    {
+        "word": "steep",
+        "mean": "dốc"
+    },
+    {
+        "word": "curtain",
+        "mean": "tấm màn"
+    },
+    {
+        "word": "calculation",
+        "mean": "tính toán"
+    },
+    {
+        "word": "laughter",
+        "mean": "tiếng cười"
+    },
+    {
+        "word": "solemn",
+        "mean": "trang nghiêm"
+    },
+    {
+        "word": "grease",
+        "mean": "dầu mỡ"
+    },
+    {
+        "word": "interfere",
+        "mean": "can thiệp"
+    },
+    {
+        "word": "explode",
+        "mean": "nổ tung"
+    },
+    {
+        "word": "fasten",
+        "mean": "buộc chặt"
+    },
+    {
+        "word": "resign",
+        "mean": "từ chức"
+    },
+    {
+        "word": "postpone",
+        "mean": "hoãn"
+    },
+    {
+        "word": "patience",
+        "mean": "tính kiên nhẫn"
+    },
+    {
+        "word": "boast",
+        "mean": "khoe khoan"
+    },
+    {
+        "word": "rope",
+        "mean": "dây thừng"
+    },
+    {
+        "word": "envy",
+        "mean": "ghen tỵ"
+    },
+    {
+        "word": "rid",
+        "mean": "loại bỏ"
+    },
+    {
+        "word": "veil",
+        "mean": "mạng che mặt"
+    },
+    {
+        "word": "kneel",
+        "mean": "quỳ xuống"
+    },
+    {
+        "word": "tray",
+        "mean": "khay"
+    },
+    {
+        "word": "explosive",
+        "mean": "chất nổ"
+    },
+    {
+        "word": "brass",
+        "mean": "thau"
+    },
+    {
+        "word": "wax",
+        "mean": "sáp"
+    },
+    {
+        "word": "button",
+        "mean": "cái nút"
+    },
+    {
+        "word": "invent",
+        "mean": "phát minh"
+    },
+    {
+        "word": "remedy",
+        "mean": "phương thuốc"
+    },
+    {
+        "word": "bush",
+        "mean": "bụi cây"
+    },
+    {
+        "word": "thunder",
+        "mean": "sấm sét"
+    },
+    {
+        "word": "weaken",
+        "mean": "suy yếu"
+    },
+    {
+        "word": "poverty",
+        "mean": "nghèo"
+    },
+    {
+        "word": "scrape",
+        "mean": "cạo"
+    },
+    {
+        "word": "tender",
+        "mean": "mềm"
+    },
+    {
+        "word": "cruel",
+        "mean": "tàn nhẫn"
+    },
+    {
+        "word": "soften",
+        "mean": "làm mềm"
+    },
+    {
+        "word": "hay",
+        "mean": "cỏ khô"
+    },
+    {
+        "word": "anyhow",
+        "mean": "dù sao đi nữa"
+    },
+    {
+        "word": "alike",
+        "mean": "như nhau"
+    },
+    {
+        "word": "circular",
+        "mean": "hình tròn"
+    },
+    {
+        "word": "juice",
+        "mean": "nước ép"
+    },
+    {
+        "word": "shelf",
+        "mean": "cái kệ"
+    },
+    {
+        "word": "bake",
+        "mean": "nướng"
+    },
+    {
+        "word": "hatred",
+        "mean": "hận thù"
+    },
+    {
+        "word": "cautious",
+        "mean": "thận trọng"
+    },
+    {
+        "word": "basket",
+        "mean": "rổ"
+    },
+    {
+        "word": "wreck",
+        "mean": "xác tàu đắm"
+    },
+    {
+        "word": "log",
+        "mean": "nhật ký"
+    },
+    {
+        "word": "heap",
+        "mean": "đống"
+    },
+    {
+        "word": "suck",
+        "mean": "hút"
+    },
+    {
+        "word": "ladder",
+        "mean": "thang"
+    },
+    {
+        "word": "gap",
+        "mean": "khoảng cách"
+    },
+    {
+        "word": "obey",
+        "mean": "tuân theo"
+    },
+    {
+        "word": "hut",
+        "mean": "túp lều"
+    },
+    {
+        "word": "axe",
+        "mean": "rìu"
+    },
+    {
+        "word": "translation",
+        "mean": "dịch thuật"
+    },
+    {
+        "word": "collar",
+        "mean": "cổ áo"
+    },
+    {
+        "word": "delivery",
+        "mean": "vận chuyển"
+    },
+    {
+        "word": "reproduce",
+        "mean": "tái tạo"
+    },
+    {
+        "word": "confession",
+        "mean": "sự xưng tội"
+    },
+    {
+        "word": "pan",
+        "mean": "chảo"
+    },
+    {
+        "word": "prejudice",
+        "mean": "định kiến"
+    },
+    {
+        "word": "voyage",
+        "mean": "chuyến đi"
+    },
+    {
+        "word": "tobacco",
+        "mean": "thuốc lá"
+    },
+    {
+        "word": "simplicity",
+        "mean": "sự đơn giản"
+    },
+    {
+        "word": "ribbon",
+        "mean": "ruy-băng"
+    },
+    {
+        "word": "harvest",
+        "mean": "mùa gặt"
+    },
+    {
+        "word": "ashamed",
+        "mean": "xấu hổ"
+    },
+    {
+        "word": "customary",
+        "mean": "phong tục"
+    },
+    {
+        "word": "thief",
+        "mean": "tên trộm"
+    },
+    {
+        "word": "damp",
+        "mean": "ẩm ướt"
+    },
+    {
+        "word": "sew",
+        "mean": "may"
+    },
+    {
+        "word": "rust",
+        "mean": "rỉ sét"
+    },
+    {
+        "word": "separation",
+        "mean": "sự chia ly"
+    },
+    {
+        "word": "waiter",
+        "mean": "phục vụ nam"
+    },
+    {
+        "word": "straw",
+        "mean": "rơm"
+    },
+    {
+        "word": "upset",
+        "mean": "buồn bã"
+    },
+    {
+        "word": "towel",
+        "mean": "cái khăn lau"
+    },
+    {
+        "word": "refresh",
+        "mean": "làm cho khỏe lại"
+    },
+    {
+        "word": "essence",
+        "mean": "nước hoa"
+    },
+    {
+        "word": "fur",
+        "mean": "lông thú"
+    },
+    {
+        "word": "ambitious",
+        "mean": "tham vọng"
+    },
+    {
+        "word": "defendant",
+        "mean": "bị cáo"
+    },
+    {
+        "word": "daylight",
+        "mean": "ánh sáng ban ngày"
+    },
+    {
+        "word": "dip",
+        "mean": "nhúng"
+    },
+    {
+        "word": "suspicious",
+        "mean": "khả nghi"
+    },
+    {
+        "word": "imaginary",
+        "mean": "tưởng tượng"
+    },
+    {
+        "word": "ash",
+        "mean": "tro"
+    },
+    {
+        "word": "carriage",
+        "mean": "xe"
+    },
+    {
+        "word": "educator",
+        "mean": "nhà giáo dục"
+    },
+    {
+        "word": "saw",
+        "mean": "cái cưa"
+    },
+    {
+        "word": "stove",
+        "mean": "cái lò"
+    },
+    {
+        "word": "rubber",
+        "mean": "cao su"
+    },
+    {
+        "word": "rug",
+        "mean": "tấm thảm"
+    },
+    {
+        "word": "misery",
+        "mean": "khốn khổ"
+    },
+    {
+        "word": "awkward",
+        "mean": "vụng về"
+    },
+    {
+        "word": "rival",
+        "mean": "đối thủ"
+    },
+    {
+        "word": "roast",
+        "mean": "thịt nướng"
+    },
+    {
+        "word": "deed",
+        "mean": "chứng thư"
+    },
+    {
+        "word": "preference",
+        "mean": "sự ưa thích"
+    },
+    {
+        "word": "explosion",
+        "mean": "vụ nổ"
+    },
+    {
+        "word": "theatrical",
+        "mean": "sân khấu"
+    },
+    {
+        "word": "cultivate",
+        "mean": "trồng trọt"
+    },
+    {
+        "word": "collector",
+        "mean": "người sưu tầm"
+    },
+    {
+        "word": "miserable",
+        "mean": "khổ sở"
+    },
+    {
+        "word": "wrist",
+        "mean": "cổ tay"
+    },
+    {
+        "word": "rabbit",
+        "mean": "con thỏ"
+    },
+    {
+        "word": "accustom",
+        "mean": "quen"
+    },
+    {
+        "word": "tide",
+        "mean": "thủy triều"
+    },
+    {
+        "word": "insult",
+        "mean": "sự sỉ nhục"
+    },
+    {
+        "word": "lump",
+        "mean": "một cục"
+    },
+    {
+        "word": "annoy",
+        "mean": "làm phiền"
+    },
+    {
+        "word": "heal",
+        "mean": "chữa lành"
+    },
+    {
+        "word": "shallow",
+        "mean": "nông"
+    },
+    {
+        "word": "repetition",
+        "mean": "sự lặp lại"
+    },
+    {
+        "word": "scenery",
+        "mean": "phong cảnh"
+    },
+    {
+        "word": "offense",
+        "mean": "sự xúc phạm"
+    },
+    {
+        "word": "cork",
+        "mean": "nút chai"
+    },
+    {
+        "word": "ripe",
+        "mean": "chín muồi"
+    },
+    {
+        "word": "temper",
+        "mean": "tính khí"
+    },
+    {
+        "word": "sore",
+        "mean": "đau"
+    },
+    {
+        "word": "pinch",
+        "mean": "nhéo"
+    },
+    {
+        "word": "diamond",
+        "mean": "kim cương"
+    },
+    {
+        "word": "razor",
+        "mean": "dao cạo"
+    },
+    {
+        "word": "imaginative",
+        "mean": "giàu trí tưởng tượng"
+    },
+    {
+        "word": "hook",
+        "mean": "cái móc"
+    },
+    {
+        "word": "copper",
+        "mean": "đồng"
+    },
+    {
+        "word": "landlord",
+        "mean": "chủ nhà"
+    },
+    {
+        "word": "influential",
+        "mean": "có ảnh hưởng"
+    },
+    {
+        "word": "rot",
+        "mean": "thối rữa"
+    },
+    {
+        "word": "hollow",
+        "mean": "rỗng"
+    },
+    {
+        "word": "enclose",
+        "mean": "bao bọc"
+    },
+    {
+        "word": "harden",
+        "mean": "cứng lại"
+    },
+    {
+        "word": "wicked",
+        "mean": "độc ác"
+    },
+    {
+        "word": "stiffen",
+        "mean": "cứng lại"
+    },
+    {
+        "word": "silk",
+        "mean": "lụa"
+    },
+    {
+        "word": "upright",
+        "mean": "ngay thẳng"
+    },
+    {
+        "word": "selfish",
+        "mean": "ích kỷ"
+    },
+    {
+        "word": "stripe",
+        "mean": "sọc"
+    },
+    {
+        "word": "pig",
+        "mean": "con lợn"
+    },
+    {
+        "word": "inward",
+        "mean": "hướng nội"
+    },
+    {
+        "word": "excellence",
+        "mean": "sự xuất sắc"
+    },
+    {
+        "word": "rake",
+        "mean": "cái cào"
+    },
+    {
+        "word": "hasten",
+        "mean": "nhanh lên"
+    },
+    {
+        "word": "shorten",
+        "mean": "rút ngắn"
+    },
+    {
+        "word": "applause",
+        "mean": "tiếng vỗ tay"
+    },
+    {
+        "word": "ache",
+        "mean": "đau nhức"
+    },
+    {
+        "word": "apology",
+        "mean": "lời xin lỗi"
+    },
+    {
+        "word": "knot",
+        "mean": "nút thắt"
+    },
+    {
+        "word": "nephew",
+        "mean": "cháu trai"
+    },
+    {
+        "word": "cushion",
+        "mean": "cái đệm"
+    },
+    {
+        "word": "drown",
+        "mean": "chết đuối"
+    },
+    {
+        "word": "nursery",
+        "mean": "vườn ươm"
+    },
+    {
+        "word": "pint",
+        "mean": "pint"
+    },
+    {
+        "word": "fierce",
+        "mean": "mạnh mẽ"
+    },
+    {
+        "word": "imitate",
+        "mean": "bắt chước"
+    },
+    {
+        "word": "aloud",
+        "mean": "lớn tiếng"
+    },
+    {
+        "word": "gaiety",
+        "mean": "vui tươi"
+    },
+    {
+        "word": "robbery",
+        "mean": "cướp"
+    },
+    {
+        "word": "tighten",
+        "mean": "thắt chặt"
+    },
+    {
+        "word": "perfection",
+        "mean": "sự hoàn hảo"
+    },
+    {
+        "word": "scorn",
+        "mean": "khinh miệt"
+    },
+    {
+        "word": "whoever",
+        "mean": "bất cứ ai"
+    },
+    {
+        "word": "trunk",
+        "mean": "thân cây"
+    },
+    {
+        "word": "wool",
+        "mean": "len"
+    },
+    {
+        "word": "sailor",
+        "mean": "thủy thủ"
+    },
+    {
+        "word": "competitor",
+        "mean": "đối thủ cạnh tranh"
+    },
+    {
+        "word": "moonlight",
+        "mean": "ánh trăng"
+    },
+    {
+        "word": "deer",
+        "mean": "con nai"
+    },
+    {
+        "word": "bean",
+        "mean": "hạt đậu"
+    },
+    {
+        "word": "drawer",
+        "mean": "ngăn kéo"
+    },
+    {
+        "word": "disregard",
+        "mean": "coi thường"
+    },
+    {
+        "word": "nowadays",
+        "mean": "Ngày nay"
+    },
+    {
+        "word": "patriotic",
+        "mean": "yêu nước"
+    },
+    {
+        "word": "tin",
+        "mean": "thiếc"
+    },
+    {
+        "word": "penny",
+        "mean": "đồng xu"
+    },
+    {
+        "word": "cage",
+        "mean": "cái lồng"
+    },
+    {
+        "word": "pardon",
+        "mean": "xin thứ lỗi"
+    },
+    {
+        "word": "lately",
+        "mean": "gần đây"
+    },
+    {
+        "word": "offend",
+        "mean": "xúc phạm"
+    },
+    {
+        "word": "coarse",
+        "mean": "thô"
+    },
+    {
+        "word": "spoil",
+        "mean": "chiều hư"
+    },
+    {
+        "word": "horizontal",
+        "mean": "nằm ngang"
+    },
+    {
+        "word": "sting",
+        "mean": "đốt"
+    },
+    {
+        "word": "ditch",
+        "mean": "mương"
+    },
+    {
+        "word": "librarian",
+        "mean": "thủ thư"
+    },
+    {
+        "word": "meantime",
+        "mean": "trong lúc đó"
+    },
+    {
+        "word": "cough",
+        "mean": "ho"
+    },
+    {
+        "word": "deaf",
+        "mean": "điếc"
+    },
+    {
+        "word": "sword",
+        "mean": "gươm"
+    },
+    {
+        "word": "messenger",
+        "mean": "tin nhắn"
+    },
+    {
+        "word": "vain",
+        "mean": "vô ích"
+    },
+    {
+        "word": "castle",
+        "mean": "lâu đài"
+    },
+    {
+        "word": "elastic",
+        "mean": "đàn hồi"
+    },
+    {
+        "word": "comb",
+        "mean": "cái lược"
+    },
+    {
+        "word": "rod",
+        "mean": "gậy"
+    },
+    {
+        "word": "widen",
+        "mean": "mở rộng"
+    },
+    {
+        "word": "sorrow",
+        "mean": "nỗi buồn"
+    },
+    {
+        "word": "inventor",
+        "mean": "nhà phát minh"
+    },
+    {
+        "word": "cliff",
+        "mean": "vách đá"
+    },
+    {
+        "word": "interruption",
+        "mean": "gián đoạn"
+    },
+    {
+        "word": "merry",
+        "mean": "vui"
+    },
+    {
+        "word": "gallon",
+        "mean": "gallon"
+    },
+    {
+        "word": "conquest",
+        "mean": "chinh phục"
+    },
+    {
+        "word": "headache",
+        "mean": "đau đầu"
+    },
+    {
+        "word": "tailor",
+        "mean": "thợ may"
+    },
+    {
+        "word": "bucket",
+        "mean": "xô"
+    },
+    {
+        "word": "scent",
+        "mean": "hương thơm"
+    },
+    {
+        "word": "signature",
+        "mean": "chữ ký"
+    },
+    {
+        "word": "darken",
+        "mean": "làm tối đi"
+    },
+    {
+        "word": "sometime",
+        "mean": "đôi khi"
+    },
+    {
+        "word": "applaud",
+        "mean": "hoan hô"
+    },
+    {
+        "word": "underneath",
+        "mean": "bên dưới"
+    },
+    {
+        "word": "pretense",
+        "mean": "giả vờ"
+    },
+    {
+        "word": "conquer",
+        "mean": "chinh phục"
+    },
+    {
+        "word": "framework",
+        "mean": "khuôn khổ"
+    },
+    {
+        "word": "confidential",
+        "mean": "bảo mật"
+    },
+    {
+        "word": "adoption",
+        "mean": "nhận con nuôi"
+    },
+    {
+        "word": "disgust",
+        "mean": "ghê tởm"
+    },
+    {
+        "word": "waist",
+        "mean": "thắt lưng"
+    },
+    {
+        "word": "momentary",
+        "mean": "nhất thời"
+    },
+    {
+        "word": "receipt",
+        "mean": "biên lai"
+    },
+    {
+        "word": "pearl",
+        "mean": "ngọc trai"
+    },
+    {
+        "word": "ray",
+        "mean": "tia"
+    },
+    {
+        "word": "limb",
+        "mean": "chân tay"
+    },
+    {
+        "word": "grammatical",
+        "mean": "ngữ pháp"
+    },
+    {
+        "word": "beast",
+        "mean": "con thú"
+    },
+    {
+        "word": "jewel",
+        "mean": "viên ngọc quý"
+    },
+    {
+        "word": "persuasion",
+        "mean": "sự thuyết phục"
+    },
+    {
+        "word": "obedience",
+        "mean": "sự vâng lời"
+    },
+    {
+        "word": "sock",
+        "mean": "tất"
+    },
+    {
+        "word": "vowel",
+        "mean": "nguyên âm"
+    },
+    {
+        "word": "hammer",
+        "mean": "cái búa"
+    },
+    {
+        "word": "inn",
+        "mean": "quán trọ"
+    },
+    {
+        "word": "chimney",
+        "mean": "ống khói"
+    },
+    {
+        "word": "dissatisfaction",
+        "mean": "sự không hài lòng"
+    },
+    {
+        "word": "annoyance",
+        "mean": "sự khó chịu"
+    },
+    {
+        "word": "ornament",
+        "mean": "vật trang trí"
+    },
+    {
+        "word": "honesty",
+        "mean": "trung thực"
+    },
+    {
+        "word": "outward",
+        "mean": "hướng ngoại"
+    },
+    {
+        "word": "sharpen",
+        "mean": "làm sắc nét"
+    },
+    {
+        "word": "handkerchief",
+        "mean": "khăn tay"
+    },
+    {
+        "word": "greed",
+        "mean": "tham lam"
+    },
+    {
+        "word": "heavenly",
+        "mean": "thiên đường"
+    },
+    {
+        "word": "thirst",
+        "mean": "khát nước"
+    },
+    {
+        "word": "niece",
+        "mean": "cháu gái"
+    },
+    {
+        "word": "spill",
+        "mean": "đổ tràn"
+    },
+    {
+        "word": "loaf",
+        "mean": "ổ bánh mì"
+    },
+    {
+        "word": "wheat",
+        "mean": "lúa mì"
+    },
+    {
+        "word": "secrecy",
+        "mean": "bí mật"
+    },
+    {
+        "word": "rude",
+        "mean": "bất lịch sự"
+    },
+    {
+        "word": "heighten",
+        "mean": "nâng cao"
+    },
+    {
+        "word": "flatten",
+        "mean": "làm phẳng"
+    },
+    {
+        "word": "loosen",
+        "mean": "nới lỏng"
+    },
+    {
+        "word": "cheese",
+        "mean": "phô mai"
+    },
+    {
+        "word": "rivalry",
+        "mean": "sự ganh đua"
+    },
+    {
+        "word": "royalty",
+        "mean": "tiền bản quyền"
+    },
+    {
+        "word": "discontent",
+        "mean": "bất mãn"
+    },
+    {
+        "word": "complication",
+        "mean": "sự phức tạp"
+    },
+    {
+        "word": "fright",
+        "mean": "sợ hãi"
+    },
+    {
+        "word": "indoor",
+        "mean": "trong nhà"
+    },
+    {
+        "word": "flour",
+        "mean": "bột mì"
+    },
+    {
+        "word": "actress",
+        "mean": "nữ diễn viên"
+    },
+    {
+        "word": "ounce",
+        "mean": "ounce"
+    },
+    {
+        "word": "fry",
+        "mean": "chiên rán"
+    },
+    {
+        "word": "everlasting",
+        "mean": "vĩnh cửu"
+    },
+    {
+        "word": "goat",
+        "mean": "con dê"
+    },
+    {
+        "word": "ink",
+        "mean": "mực"
+    },
+    {
+        "word": "disappearance",
+        "mean": "sự biến mất"
+    },
+    {
+        "word": "reproduction",
+        "mean": "sinh sản"
+    },
+    {
+        "word": "thicken",
+        "mean": "dày lên"
+    },
+    {
+        "word": "avoidance",
+        "mean": "tránh né"
+    },
+    {
+        "word": "spoon",
+        "mean": "thìa"
+    },
+    {
+        "word": "strap",
+        "mean": "dây đeo"
+    },
+    {
+        "word": "deceive",
+        "mean": "lừa dối"
+    },
+    {
+        "word": "lengthen",
+        "mean": "kéo dài ra"
+    },
+    {
+        "word": "revenge",
+        "mean": "sự trả thù"
+    },
+    {
+        "word": "correction",
+        "mean": "sự sửa chữa"
+    },
+    {
+        "word": "descendant",
+        "mean": "hậu duệ"
+    },
+    {
+        "word": "hesitation",
+        "mean": "do dự"
+    },
+    {
+        "word": "spade",
+        "mean": "thuổng"
+    },
+    {
+        "word": "basin",
+        "mean": "lưu vực"
+    },
+    {
+        "word": "weed",
+        "mean": "cần sa"
+    },
+    {
+        "word": "omission",
+        "mean": "bỏ sót"
+    },
+    {
+        "word": "old-fashioned",
+        "mean": "theo xưa"
+    },
+    {
+        "word": "breadth",
+        "mean": "chiều rộng"
+    },
+    {
+        "word": "photography",
+        "mean": "nhiếp ảnh"
+    },
+    {
+        "word": "coward",
+        "mean": "hèn nhát"
+    },
+    {
+        "word": "mat",
+        "mean": "chiếu"
+    },
+    {
+        "word": "rejoice",
+        "mean": "hân hoan"
+    },
+    {
+        "word": "cheat",
+        "mean": "gian lận"
+    },
+    {
+        "word": "congratulate",
+        "mean": "chúc mừng"
+    },
+    {
+        "word": "discomfort",
+        "mean": "khó chịu"
+    },
+    {
+        "word": "enclosure",
+        "mean": "bao vây"
+    },
+    {
+        "word": "attentive",
+        "mean": "chú ý"
+    },
+    {
+        "word": "paw",
+        "mean": "chân"
+    },
+    {
+        "word": "dissatisfy",
+        "mean": "không hài lòng"
+    },
+    {
+        "word": "multiplication",
+        "mean": "phép nhân"
+    },
+    {
+        "word": "tidy",
+        "mean": "ngăn nắp"
+    },
+    {
+        "word": "bribe",
+        "mean": "hối lộ"
+    },
+    {
+        "word": "mend",
+        "mean": "sửa chữa"
+    },
+    {
+        "word": "stocking",
+        "mean": "thả giống"
+    },
+    {
+        "word": "feast",
+        "mean": "bữa tiệc"
+    },
+    {
+        "word": "nuisance",
+        "mean": "phiền toái"
+    },
+    {
+        "word": "thorn",
+        "mean": "gai"
+    },
+    {
+        "word": "tame",
+        "mean": "thuần hóa"
+    },
+    {
+        "word": "inclusive",
+        "mean": "bao gồm"
+    },
+    {
+        "word": "chalk",
+        "mean": "phấn"
+    },
+    {
+        "word": "sour",
+        "mean": "chua"
+    },
+    {
+        "word": "slippery",
+        "mean": "trơn"
+    },
+    {
+        "word": "procession",
+        "mean": "đám rước"
+    },
+    {
+        "word": "ripen",
+        "mean": "chín"
+    },
+    {
+        "word": "jealous",
+        "mean": "ghen tị"
+    },
+    {
+        "word": "jealousy",
+        "mean": "lòng ghen tị"
+    },
+    {
+        "word": "liar",
+        "mean": "kẻ nói dối"
+    },
+    {
+        "word": "homecoming",
+        "mean": "sự trở về quê hương"
+    },
+    {
+        "word": "barber",
+        "mean": "thợ cắt tóc"
+    },
+    {
+        "word": "whiten",
+        "mean": "làm trắng"
+    },
+    {
+        "word": "berry",
+        "mean": "quả mọng"
+    },
+    {
+        "word": "lighten",
+        "mean": "làm nhẹ đi"
+    },
+    {
+        "word": "pigeon",
+        "mean": "chim bồ câu"
+    },
+    {
+        "word": "hinder",
+        "mean": "cản trở"
+    },
+    {
+        "word": "bravery",
+        "mean": "lòng dũng cảm"
+    },
+    {
+        "word": "baggage",
+        "mean": "hành lý"
+    },
+    {
+        "word": "amongst",
+        "mean": "trong số"
+    },
+    {
+        "word": "cultivation",
+        "mean": "trồng trọt"
+    },
+    {
+        "word": "companionship",
+        "mean": "tình bạn"
+    },
+    {
+        "word": "rubbish",
+        "mean": "rác"
+    },
+    {
+        "word": "modesty",
+        "mean": "sự khiêm tốn"
+    },
+    {
+        "word": "woolen",
+        "mean": "len"
+    },
+    {
+        "word": "deepen",
+        "mean": "làm sâu sắc thêm"
+    },
+    {
+        "word": "pastry",
+        "mean": "bánh ngọt"
+    },
+    {
+        "word": "cupboard",
+        "mean": "cái tủ"
+    },
+    {
+        "word": "quart",
+        "mean": "lít"
+    },
+    {
+        "word": "canal",
+        "mean": "con kênh"
+    },
+    {
+        "word": "deceit",
+        "mean": "lừa dối"
+    },
+    {
+        "word": "parcel",
+        "mean": "bưu kiện"
+    },
+    {
+        "word": "brighten",
+        "mean": "làm sáng lên"
+    },
+    {
+        "word": "moderation",
+        "mean": "điều độ"
+    },
+    {
+        "word": "punctual",
+        "mean": "đúng giờ"
+    },
+    {
+        "word": "hurrah",
+        "mean": "hoan hô"
+    },
+    {
+        "word": "lipstick",
+        "mean": "cây son"
+    },
+    {
+        "word": "uppermost",
+        "mean": "trên cùng"
+    },
+    {
+        "word": "fatten",
+        "mean": "vỗ béo"
+    },
+    {
+        "word": "conqueror",
+        "mean": "kẻ chinh phục"
+    },
+    {
+        "word": "hindrance",
+        "mean": "sự cản trở"
+    },
+    {
+        "word": "cowardice",
+        "mean": "hèn nhát"
+    },
+    {
+        "word": "obedient",
+        "mean": "nghe lời"
+    },
+    {
+        "word": "saucer",
+        "mean": "cái đĩa"
+    },
+    {
+        "word": "madden",
+        "mean": "điên cuồng"
+    },
+    {
+        "word": "scold",
+        "mean": "la mắng"
+    },
+    {
+        "word": "weekday",
+        "mean": "ngày trong tuần"
+    },
+    {
+        "word": "rotten",
+        "mean": "thối rữa"
+    },
+    {
+        "word": "disrespect",
+        "mean": "thiếu tôn trọng"
+    },
+    {
+        "word": "widower",
+        "mean": "người góa vợ"
+    },
+    {
+        "word": "deafen",
+        "mean": "làm điếc tai"
+    },
+    {
+        "word": "donkey",
+        "mean": "con lừa"
+    },
+    {
+        "word": "businesslike",
+        "mean": "thích kinh doanh"
+    },
+    {
+        "word": "motherhood",
+        "mean": "làm mẹ"
+    },
+    {
+        "word": "sadden",
+        "mean": "buồn bã"
+    },
+    {
+        "word": "handshake",
+        "mean": "cái bắt tay"
+    },
+    {
+        "word": "calculator",
+        "mean": "máy tính"
+    },
+    {
+        "word": "headdress",
+        "mean": "cái mũ"
+    },
+    {
+        "word": "scissors",
+        "mean": "kéo"
+    },
+    {
+        "word": "possessor",
+        "mean": "người sở hữu"
+    },
+    {
+        "word": "shilling",
+        "mean": "shilling"
+    },
+    {
+        "word": "redden",
+        "mean": "đỏ lên"
+    },
+    {
+        "word": "motherly",
+        "mean": "tình mẫu tử"
+    },
+    {
+        "word": "whose",
+        "mean": "của ai"
+    },
+    {
+        "word": "cultivator",
+        "mean": "người trồng trọt"
+    },
+    {
+        "word": "whom",
+        "mean": "ai"
+    },
+    {
+        "word": "electrician",
+        "mean": "thợ điện"
+    },
+    {
+        "word": "oar",
+        "mean": "mái chèo"
+    },
+    {
+        "word": "bribery",
+        "mean": "hối lộ"
+    },
+    {
+        "word": "sweeten",
+        "mean": "làm ngọt"
+    },
+    {
+        "word": "sow",
+        "mean": "gieo hạt"
+    },
+    {
+        "word": "pronunciation",
+        "mean": "cách phát âm"
+    },
+    {
+        "word": "beak",
+        "mean": "mỏ"
+    },
+    {
+        "word": "plural",
+        "mean": "số nhiều"
+    }
+]

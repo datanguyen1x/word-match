@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Match words</title>
+    <link rel="stylesheet" href="style.css?ver=1.2">
+</head>
+
+<body>
+    <div class="container">
+        <div class="options">
+            <select id="optionId">
+                <option value="">1</option>
+                <option value="">2</option>
+                <option value="">3</option>
+                <option value="">4</option>
+            </select>
+        </div>
+        <div class="info">
+            Score: <b id="score">0</b> |
+            W: <b id="remainWords">0</b> |
+            <button id="restartBtn">Restart</button>
+            <button id="listID">List</button>
+        </div>
+        <hr style="width: 15vw;" />
+        <div id="gameBoard" class="grid"></div>
+
+        <div id="sheetID" class="modal">
+            <div id="close-modal" class="close-modal">X</div>
+            <div class="modal-content">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Index</th>
+                            <th>Word</th>
+                            <th>Mean</th>
+                        </tr>
+                    </thead>
+                    <tbody id="sheetContent">
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <script src="scripts.js" defer></script>
+</body>
+
+</html>

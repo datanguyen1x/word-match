@@ -1,0 +1,32 @@
+[
+    {
+        "word": "the",
+        "mean": "cái",
+        "check": "1"
+    },
+    {
+        "word": "be",
+        "mean": "là",
+        "check": "1"
+    },
+    {
+        "word": "of",
+        "mean": "của",
+        "check": "1"
+    },
+    {
+        "word": "and",
+        "mean": "Và",
+        "check": "1"
+    },
+    {
+        "word": "a",
+        "mean": "Một",
+        "check": "1"
+    },
+    {
+        "word": "to",
+        "mean": "ĐẾN",
+        "check": "1"
+    }
+]
