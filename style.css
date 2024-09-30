@@ -42,11 +42,6 @@ body {
     font-size: larger;
 }
 
-.matched {}
-
-.not-matched {}
-
-
 /* sheet */
 .modal {
     display: none;

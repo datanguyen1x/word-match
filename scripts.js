@@ -141,19 +141,15 @@ function checkMatch() {
     const secondWord = second.card.getAttribute('data-word');
     if ((firstWord === secondWord)) {
         // Xử lý cặp từ khớp
-        first.card.classList.add('matched');
-        second.card.classList.add('matched');
         setTimeout(() => {
             removeMatchPair(firstWord);
             createBoard();
         }, 300);
     } else {
         // Xử lý cặp từ không khớp
-        first.card.classList.add('not-matched');
-        second.card.classList.add('not-matched');
         setTimeout(() => {
-            first.card.classList.remove('selected', 'not-matched');
-            second.card.classList.remove('selected', 'not-matched');
+            first.card.classList.remove('selected');
+            second.card.classList.remove('selected');
             updateInfo();
         }, 300);
     }
