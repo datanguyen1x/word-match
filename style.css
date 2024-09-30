@@ -39,18 +39,12 @@ body {
 
 /* handle */
 .selected {
-    background-color: yellow;
+    font-size: larger;
 }
 
-.matched {
-    background-color: green;
-    color: white;
-}
+.matched {}
 
-.not-matched {
-    background-color: red;
-    color: white;
-}
+.not-matched {}
 
 
 /* sheet */

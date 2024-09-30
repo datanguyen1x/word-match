@@ -8,8 +8,6 @@ async function fetchData() {
     }
 }
 
-
-let oweList = [];
 let selected = [];
 let remainWords = 0;
 let tenParts = null;
@@ -56,7 +54,6 @@ async function loadData() {
 
 function restartGame() {
     loadData();
-    oweList = [];
     selected = [];
 }
 
@@ -64,7 +61,6 @@ function updateInfo() {
     const getdata = localStorage.getItem('mwdt');
     const data = JSON.parse(getdata);
     remainWordsID.textContent = data.length;
-    oweWords.textContent = oweList.length;
 }
 
 function random(data) {
@@ -158,8 +154,6 @@ function checkMatch() {
         setTimeout(() => {
             first.card.classList.remove('selected', 'not-matched');
             second.card.classList.remove('selected', 'not-matched');
-            addOweList(firstWord);
-            addOweList(secondWord);
             updateInfo();
         }, 300);
     }
@@ -208,15 +202,7 @@ function fillSection() {
 
 function choosePart() {
     localStorage.setItem('mwdt', JSON.stringify(tenParts[this.value]));
-    createBoard();
-}
-
-function addOweList(word) {
-    const data = getData();
-    oweList.push(data[word]);
-}
-
-function payList() {
-    localStorage.setItem('mwdt', JSON.stringify(oweList));
+    const allword = tenParts[this.value].map(e => e.word);
+    console.log(allword.join());
     createBoard();
 }
